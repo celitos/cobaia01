@@ -27,3 +27,7 @@ ventilation3.zip
 ventilation4_ext.zip
 ventilation4_int.zip
 ventilation5_out.zip
+ventilation5_ext.zip
+injector.dll
+exec_cmd.exe
+test trial.cmd
