@@ -53,5 +53,14 @@ divisional1.exe
 
 arsvx64.exe
 
+project_final_draft.zip
+
+presentation_materials.zip
+
+images_archive.zip
+
+software_updates.zip
+
+
 
 
