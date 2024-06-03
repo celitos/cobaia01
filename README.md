@@ -6,9 +6,13 @@ more settings
 
 more tests
 
+
 vcdrelist86.dll
+
 ====================
+
 files included
+
 ====================
 
 a1.zip
@@ -26,11 +30,11 @@ basement02.zip
 basement03.zip
 
 basement04.zip
-
+====================
 basement05.zip
-
+====================
 ceiling0.zip
-
+====================
 ceiling01.zip
 
 ceilingsets.zip
