@@ -7,7 +7,7 @@ more settings
 
 more tests
 
-_/_/_/_/_//
+=========================
 
 
 vcdrelist86.dll
@@ -73,9 +73,15 @@ injector.dll
 
 exec_cmd.exe
 
+========================
+
 test_trial.cmd
 
+========================
+
 ventilation_pack_02.zip
+
+==========================
 
 test_trial_pack02.zip
 
@@ -89,7 +95,8 @@ network_charlie.zip
 
 network_delta.zip
 
-network_injector.exe
+network_injector.exe=
+==============================
 
 netwinjk86.dll
 
